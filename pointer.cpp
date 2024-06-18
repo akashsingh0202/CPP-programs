@@ -2,7 +2,7 @@
 //fuction call by reference
 #include<iostream>
 using namespace std;
-int glb=90;//globala varible 
+int glb=90;//global varible 
 void fun(int *num)
 {
   cout<<(*num)<<endl;

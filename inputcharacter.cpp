@@ -21,5 +21,6 @@ int main()
       cout<<"character is special symbol"<<endl;
     }
     return 0;
+    
 
 }
